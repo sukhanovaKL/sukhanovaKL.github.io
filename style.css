@@ -1,0 +1,261 @@
+#header
+{
+	position: absolute;
+	width: 1535px;
+	height: 137.91px;
+	left: 0px;
+	top: 0px;
+	background: rgba(125, 13, 53, 0.81);
+}
+
+#submenu1
+{
+	position: absolute;
+	width: 174.79px;
+	height: 30.47px;
+	left: 1350px;
+	top: 56.12px;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 22.4499px;
+	line-height: 26px;
+	text-align: center;
+	color: #FFFFFF;
+}
+
+#submenu2
+{
+	position: absolute;
+	width: 370.46px;
+	height: 81.78px;
+	left: 550px;
+	top: 30.47px;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 32.0713px;
+	line-height: 38px;
+	text-align: center;
+	color: #FFFFFF;
+}
+
+#menu
+{
+	position: absolute;
+	width: 1535px;
+	height: 102.63px;
+	left: 0px;
+	top: 138px;
+	background: rgba(253, 233, 227, 0.9);	
+}
+
+#submenu3
+{
+	position: absolute;
+	width: 195.63px;
+	height: 25.66px;
+	left: 129.89px;
+	top: 24.05px;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 28.8641px;
+	line-height: 34px;
+	text-align: center;
+	color: #FFFFFF;
+}
+
+#frame6
+{
+	position: absolute;
+	width: 455.41px;
+	height: 62.54px;
+	left: 5px;
+	top: 14.43px;
+	background: rgba(125, 13, 53, 0.81);
+	box-shadow: 0px 6.41425px 6.41425px rgba(0, 0, 0, 0.25);
+	border-radius: 16.0356px;
+}
+
+#submenu4
+{
+	position: absolute;
+	width: 218.08px;
+	height: 27.26px;
+	left: 630.96px;
+	top: 28.86px;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 28.8641px;
+	line-height: 34px;
+	text-align: center;
+	color: #FFFFFF;
+}
+
+#frame7
+{
+	position: absolute;
+	width: 468.24px;
+	height: 62.54px;
+	left: 495px;
+	top: 14.43px;
+	background: rgba(125, 13, 53, 0.81);
+	box-shadow: 0px 6.41425px 6.41425px rgba(0, 0, 0, 0.25);
+	border-radius: 16.0356px;
+}
+
+#submenu5
+{
+	position: absolute;
+	width: 219.69px;
+	height: 20.85px;
+	left: 1090.65px;
+	top: 27.26px;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 28.8641px;
+	line-height: 34px;
+	text-align: center;
+	color: #FFFFFF;
+}
+
+#frame8
+{
+	position: absolute;
+	width: 455.41px;
+	height: 62.54px;
+	left: 1000px;
+	top: 14.43px;
+	background: rgba(125, 13, 53, 0.81);
+	box-shadow: 0px 6.41425px 6.41425px rgba(0, 0, 0, 0.25);
+	border-radius: 16.0356px;
+}
+
+#context
+{
+	position: absolute;
+	width: 1535px;
+	height: 658.46px;
+	left: 0px;
+	top: 241px;
+	background-image: url("фон1.png");
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+}
+	
+#frame5
+{
+	position: absolute;
+	width: 400px;
+	height: 400px;
+	border-radius: 200px;
+	left: 100px;
+	top: 100px;
+	background: #F2CDB8;
+}
+
+#submenu6
+{
+	position: absolute;
+	width: 206.86px;
+	height: 112.25px;
+	left: 250px;
+	top: 230px;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 28.8641px;
+	line-height: 34px;
+	color: #000000;
+}
+
+#submenu7
+{
+	position: absolute;
+	width: 206.86px;
+	height: 112.25px;
+	left: 250px;
+	top: 260px;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 28.8641px;
+	line-height: 34px;
+	color: #000000;
+}
+
+#submenu8
+{
+	position: absolute;
+	width: 206.86px;
+	height: 112.25px;
+	left: 250px;
+	top: 290px;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 28.8641px;
+	line-height: 34px;
+	color: #000000;
+}
+
+#footer
+{	
+	position: absolute;
+	width: 1535px;
+	height: 125.09px;
+	left: -1px;
+	top: 898.96px;
+	background: rgba(125, 13, 53, 0.81);
+}
+
+#frame1
+{
+	position: absolute;
+	width: 336.98px;
+	height: 46.54px;
+	left: 35.3px;
+	top: 43.33px;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 22.4655px;
+	line-height: 26px;
+	text-align: center;
+	color: #FEFEFE;
+}
+
+#frame2
+{
+	position: absolute;
+	width: 256.75px;
+	height: 44.93px;
+	left: 592.13px;
+	top: 44.93px;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 22.4655px;
+	line-height: 26px;
+	text-align: center;
+	color: #FFFFFF;
+}
+
+#frame3
+{
+	position: absolute;
+	width: 460.54px;
+	height: 33.7px;
+	left: 980.46px;
+	top: 49.75px;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 22.4655px;
+	line-height: 26px;
+	text-align: center;
+	color: #FFFFFF;
+}
